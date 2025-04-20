@@ -38,9 +38,8 @@ Automatiza a coleta de dados de marcas e preços de teclados e mouses do Kabum.c
 
 ---
 
-## 🔧 Instalação
+## 🔧 Intalação
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/scraping-kabum-sql.git
-   cd scraping-kabum-sql
+   git clone https://github.com/MichaelCSPF/Web-Scrappy
