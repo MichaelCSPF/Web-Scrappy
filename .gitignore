@@ -1,0 +1,21 @@
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.py[cod]
+
+# Ignorar ambientes virtuais
+venv/
+env/
+
+# Ignorar arquivos de configuração sensíveis
+*.env
+*.json
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
